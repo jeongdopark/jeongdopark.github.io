@@ -1,6 +1,3 @@
-
-
-
 ---
 title: "안녕하세요 박정도입니다."
 excerpt: "Today I learn"
