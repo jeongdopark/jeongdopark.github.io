@@ -1,7 +1,7 @@
 ---
 title : "Linked List"
 excerpt : "Javascript Datastructure - Linked List"
-categories : - 자료구조와 알고리즘
+categories : Datastructure
 last_modified_at : 2020-11-08
 ---
 
