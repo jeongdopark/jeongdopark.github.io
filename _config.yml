@@ -280,6 +280,18 @@ defaults:
       share: true
       related: true
 
+  # _posts
+  - scope:
+      path: ""
+      type: postsTIL
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
   # _pages
   - scope:
       path: ""
